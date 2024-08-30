@@ -1,2 +1,2 @@
 # BrusselatorDynamicsReconstruction
-Dynamic system reconstruction for gene regulation using correlation matrices.
+Dynamical system reconstruction for gene regulation using correlation matrices.
